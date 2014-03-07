@@ -21,6 +21,16 @@
 		79C52E3718C96ECB00F90CC5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 79C52E1918C96ECA00F90CC5 /* UIKit.framework */; };
 		79C52E3F18C96ECB00F90CC5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E3D18C96ECB00F90CC5 /* InfoPlist.strings */; };
 		79C52E4118C96ECB00F90CC5 /* Dog_AnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 79C52E4018C96ECB00F90CC5 /* Dog_AnimationTests.m */; };
+		79C52E5518C96EEA00F90CC5 /* dog1.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E4B18C96EEA00F90CC5 /* dog1.tiff */; };
+		79C52E5618C96EEA00F90CC5 /* dog10.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E4C18C96EEA00F90CC5 /* dog10.tiff */; };
+		79C52E5718C96EEA00F90CC5 /* dog2.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E4D18C96EEA00F90CC5 /* dog2.tiff */; };
+		79C52E5818C96EEA00F90CC5 /* dog3.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E4E18C96EEA00F90CC5 /* dog3.tiff */; };
+		79C52E5918C96EEA00F90CC5 /* dog4.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E4F18C96EEA00F90CC5 /* dog4.tiff */; };
+		79C52E5A18C96EEA00F90CC5 /* dog5.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E5018C96EEA00F90CC5 /* dog5.tiff */; };
+		79C52E5B18C96EEA00F90CC5 /* dog6.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E5118C96EEA00F90CC5 /* dog6.tiff */; };
+		79C52E5C18C96EEA00F90CC5 /* dog7.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E5218C96EEA00F90CC5 /* dog7.tiff */; };
+		79C52E5D18C96EEA00F90CC5 /* dog8.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E5318C96EEA00F90CC5 /* dog8.tiff */; };
+		79C52E5E18C96EEA00F90CC5 /* dog9.tiff in Resources */ = {isa = PBXBuildFile; fileRef = 79C52E5418C96EEA00F90CC5 /* dog9.tiff */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,16 @@
 		79C52E3C18C96ECB00F90CC5 /* Dog_AnimationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Dog_AnimationTests-Info.plist"; sourceTree = "<group>"; };
 		79C52E3E18C96ECB00F90CC5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		79C52E4018C96ECB00F90CC5 /* Dog_AnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Dog_AnimationTests.m; sourceTree = "<group>"; };
+		79C52E4B18C96EEA00F90CC5 /* dog1.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog1.tiff; sourceTree = "<group>"; };
+		79C52E4C18C96EEA00F90CC5 /* dog10.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog10.tiff; sourceTree = "<group>"; };
+		79C52E4D18C96EEA00F90CC5 /* dog2.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog2.tiff; sourceTree = "<group>"; };
+		79C52E4E18C96EEA00F90CC5 /* dog3.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog3.tiff; sourceTree = "<group>"; };
+		79C52E4F18C96EEA00F90CC5 /* dog4.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog4.tiff; sourceTree = "<group>"; };
+		79C52E5018C96EEA00F90CC5 /* dog5.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog5.tiff; sourceTree = "<group>"; };
+		79C52E5118C96EEA00F90CC5 /* dog6.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog6.tiff; sourceTree = "<group>"; };
+		79C52E5218C96EEA00F90CC5 /* dog7.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog7.tiff; sourceTree = "<group>"; };
+		79C52E5318C96EEA00F90CC5 /* dog8.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog8.tiff; sourceTree = "<group>"; };
+		79C52E5418C96EEA00F90CC5 /* dog9.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = dog9.tiff; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +132,7 @@
 		79C52E1B18C96ECA00F90CC5 /* Dog_Animation */ = {
 			isa = PBXGroup;
 			children = (
+				79C52E4A18C96EEA00F90CC5 /* Hero_walk */,
 				79C52E2418C96ECA00F90CC5 /* AppDelegate.h */,
 				79C52E2518C96ECB00F90CC5 /* AppDelegate.m */,
 				79C52E2718C96ECB00F90CC5 /* Main.storyboard */,
@@ -150,6 +171,24 @@
 				79C52E3D18C96ECB00F90CC5 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		79C52E4A18C96EEA00F90CC5 /* Hero_walk */ = {
+			isa = PBXGroup;
+			children = (
+				79C52E4B18C96EEA00F90CC5 /* dog1.tiff */,
+				79C52E4C18C96EEA00F90CC5 /* dog10.tiff */,
+				79C52E4D18C96EEA00F90CC5 /* dog2.tiff */,
+				79C52E4E18C96EEA00F90CC5 /* dog3.tiff */,
+				79C52E4F18C96EEA00F90CC5 /* dog4.tiff */,
+				79C52E5018C96EEA00F90CC5 /* dog5.tiff */,
+				79C52E5118C96EEA00F90CC5 /* dog6.tiff */,
+				79C52E5218C96EEA00F90CC5 /* dog7.tiff */,
+				79C52E5318C96EEA00F90CC5 /* dog8.tiff */,
+				79C52E5418C96EEA00F90CC5 /* dog9.tiff */,
+			);
+			name = Hero_walk;
+			path = ../../Hero_walk;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,9 +267,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				79C52E5B18C96EEA00F90CC5 /* dog6.tiff in Resources */,
+				79C52E5618C96EEA00F90CC5 /* dog10.tiff in Resources */,
 				79C52E2E18C96ECB00F90CC5 /* Images.xcassets in Resources */,
 				79C52E2018C96ECA00F90CC5 /* InfoPlist.strings in Resources */,
+				79C52E5E18C96EEA00F90CC5 /* dog9.tiff in Resources */,
 				79C52E2918C96ECB00F90CC5 /* Main.storyboard in Resources */,
+				79C52E5718C96EEA00F90CC5 /* dog2.tiff in Resources */,
+				79C52E5C18C96EEA00F90CC5 /* dog7.tiff in Resources */,
+				79C52E5518C96EEA00F90CC5 /* dog1.tiff in Resources */,
+				79C52E5918C96EEA00F90CC5 /* dog4.tiff in Resources */,
+				79C52E5A18C96EEA00F90CC5 /* dog5.tiff in Resources */,
+				79C52E5D18C96EEA00F90CC5 /* dog8.tiff in Resources */,
+				79C52E5818C96EEA00F90CC5 /* dog3.tiff in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
